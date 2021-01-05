@@ -1,5 +1,9 @@
 # golem-sudoku
 ## Game of Sudoku with size variants, powered by Golem.
+
+### Video Demo
+[Link to video](https://youtu.be/CkJZt0CSoNI)
+
 ### Running instructions
 Please install the dependencies `nodejs` and `yarn` before proceeding.
  1. Set up and run the yagna requestor service following the instructions provided [here](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development).
