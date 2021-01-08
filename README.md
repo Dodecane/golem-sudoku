@@ -5,7 +5,7 @@
 [Link to video](https://youtu.be/CkJZt0CSoNI)
 
 ### Demo website
-[Link to website](https://105768c430c6.ngrok.io)
+[Link to website](https://85acb420dfbc.ngrok.io)
 
 ### Running instructions
 Please install the dependencies `nodejs` and `yarn` before proceeding.
